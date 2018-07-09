@@ -1,0 +1,35 @@
+{
+  "name": "vk-plus-plus",
+  "version": "1.0.0",
+  "description": "Comfortable and fast VK API accessor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emcifuntik/vk-plus-plus.git"
+  },
+  "keywords": [
+    "vk",
+    "vk-api",
+    "vk.com",
+    "bots",
+    "api",
+    "vkontakte-sdk",
+    "longpoll",
+    "vk-bot-api"
+  ],
+  "author": "Eugene Pogrebnyak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emcifuntik/vk-plus-plus/issues"
+  },
+  "homepage": "https://github.com/emcifuntik/vk-plus-plus#readme",
+  "devDependencies": {
+    "fast-html-parser": "^1.0.1"
+  },
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
