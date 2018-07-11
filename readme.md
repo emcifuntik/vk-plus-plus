@@ -1,7 +1,7 @@
 ![VK API Logo](https://vk.com/images/blog/api_product.svg)
 
 # vk-plus-plus
-![NPM Version](https://img.shields.io/npm/v/vk-plus-plus.svg)
+![NPM Version](https://img.shields.io/npm/v/vk-plus-plus.svg) 
 ![Downloads](https://img.shields.io/npm/dt/vk-plus-plus.svg)
 
 Simple and fast VK api with [Long Poll](https://vk.com/dev/bots_longpoll) support 
